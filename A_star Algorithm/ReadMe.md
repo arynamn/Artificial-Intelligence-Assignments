@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 
-						Assignemnt 2 : Puzzle Problem
+						Assignemnt 2 : Puzzle Problem using A*
 							Important Notes.
 
 1:	Working
@@ -12,7 +12,7 @@
 	- Repeat till goal is reached
 
 
-	Edit : Solved -------------Problem Facing--------
+	Edit : Solved -------------Issue Description--------
 	
 	For small solvable problem , it is working.
 	But if problem is complex , chances are that if states are as  A -> B -> C -> D -> A -> B -> C -> D ---->
